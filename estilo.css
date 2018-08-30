@@ -1,0 +1,14 @@
+body{
+    background: blueviolet;
+}
+
+p.center{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 100px;
+}
+
+p.cor{
+    color: rgb(155, 222, 000);
+    font-size: 50px;
+}
